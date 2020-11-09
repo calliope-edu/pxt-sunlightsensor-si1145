@@ -1,5 +1,5 @@
 {
-	"SI1145.readUltraVioletIndex": "UV Index",
-	"SI1145.readLight": "Licht Intensität",
-	"SI1145.readInfraRed": "IR Intensität"
+	"SI1145.readUltraVioletIndex|block": "UV Index",
+	"SI1145.readLight|block": "Licht Intensität",
+	"SI1145.readInfraRed|block": "IR Intensität"
 }
