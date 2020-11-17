@@ -8,7 +8,7 @@
     "files": [
         "README.md",
         "main.ts",
-		"_locales/de/SI1145-strings.json",
+        "_locales/de/SI1145-strings.json",
         "_locales/de/SI1145-jsdoc-strings.json"
     ],
     "testFiles": [
