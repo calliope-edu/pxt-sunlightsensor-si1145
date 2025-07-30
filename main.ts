@@ -85,6 +85,7 @@ namespace SI1145 {
      * Ultra Violet Index
     */
     //% block="Show ultraviolet index"
+    //% block.loc.de="UV-Index anzeigen"
     //% weight=74 blockGap=8
     //% blockId=read_UltraVioletIndex
     export function readUltraVioletIndex(): number {
@@ -95,6 +96,7 @@ namespace SI1145 {
      *  Light Intensity
     */
     //% block="Show light intensity"
+    //% block.loc.de="Lichtstärke anzeigen"
     //% weight=74 blockGap=8
     //% blockId=read_Light
     export function readLight(): number {
@@ -102,9 +104,10 @@ namespace SI1145 {
     }
 
     /**
-     *  Infra Red Intensity
+     *  Infrared Intensity
     */
     //% block="Show infrared intensity"
+    //% block.loc.de="Infrarotstärke anzeigen"
     //% weight=74 blockGap=8
     //% blockId=read_InfraRed
     export function readInfraRed(): number {
