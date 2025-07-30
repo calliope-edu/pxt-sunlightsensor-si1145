@@ -2,7 +2,7 @@ You will find the English ReadMe at the end of the document.
 
 # SI1145 Sonnenlichtsensor MakeCode-Erweiterung
 
-Eine MakeCode-Erweiterung zum Auslesen von UV-, sichtbaren und Infrarot-Lichtwerten des **SI1145 Sonnenlichtsensors** über den Grove-Anschluss A0 (I2C) am Calliope mini.
+Eine MakeCode-Erweiterung zum Auslesen von UV-, sichtbaren und Infrarot-Lichtwerten des **SI1145 Sonnenlichtsensors** über den Grove-Konnektor A0 (I2C) am Calliope mini.
 
 ---
 
